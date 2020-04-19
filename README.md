@@ -13,7 +13,7 @@
 
 ### 1. Clone repo
 ```
-git clone https://github.com/akbarziyodov/gulp-template
+git clone https://github.com/akbarziyodov/gulp-template.git
 ```
 
 ### 2. Go inside cloned repo
